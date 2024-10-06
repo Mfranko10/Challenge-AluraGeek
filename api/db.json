@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "descripcion": "Mario VS Donkey Kong",
+      "precio": "23.00",
+      "imagen": "https://i.pinimg.com/236x/63/3b/2d/633b2dd18f75f65ec512a2509cf15d78.jpg"
+    },
+    {
+      "id": "2",
+      "descripcion": "The Legend of Zelda",
+      "precio": "50.00",
+      "imagen": "https://uvejuegos.com/img/caratulas/7077/gba_zelda-minish-cap_caja.jpg"
+    },
+    {
+      "id": "3",
+      "descripcion": "Mega Man 5",
+      "precio": "29.99",
+      "imagen": "https://commondatastorage.googleapis.com/images.pricecharting.com/6b45a865c3507f02cbc6ae27ba8832ed44703ceb95ee9cf9e161e72b75241b45/240.jpg"
+    },
+    {
+      "id": "4",
+      "descripcion": "Pokemon Edi. Azul",
+      "precio": "93.24",
+      "imagen": "https://uvejuegos.com/img/caratulas/1236/Car%C3%83%C2%A1tula_de_Pok%C3%83%C2%A9mon_Azul.jpg"
+    },
+    {
+      "id": "5",
+      "descripcion": "Super Mario Bros 3",
+      "precio": "82.54",
+      "imagen": "https://uvejuegos.com/img/caratulas/1435/Super-Mario-Bros.-Deluxe-GBC-EEUU.jpg"
+    },
+    {
+      "id": "162f",
+      "descripcion": "Bomber Man",
+      "imagen": "https://www.retroplace.com/pics/gameboy/packshots/34044--pocket-bomberman.png",
+      "precio": "$ 23.34"
+    }
+  ]
+}
